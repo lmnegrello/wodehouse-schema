@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema#",
-  "id": "https://lmnegrello.github.io/wodehouse-schema/wodehouse-book.schema.json",
+  "id": "https://lmnegrello.github.io/wodehouse-schema/book-schema.json",
   "title": "book record schema",
   "description": "This is a schema that validates book records: version 1.0, 2025-05-29",
   "type": "object",
@@ -24,6 +24,30 @@
     },
     "publicationYear": {
       "type": "number"
+    },
+    "stories": {
+      "type": "array",
+      "description": "Optional list of stories in the book",
+      "items": {
+        "type": "object",
+        "required": [
+          "title"
+        ],
+        "properties": {
+          "title": "string"
+        },
+        "firstPublicationYear": {
+          "type": "number"
+        }
+      }
+    }
+  },
+  "characters": {
+    "type": "array",
+    "description": "Optional list of major characters in the book",
+    "items": {
+      "type": "string"
     }
   }
 }
+
