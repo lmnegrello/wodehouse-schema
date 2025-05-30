@@ -1,0 +1,176 @@
+{
+    "lcc": "58-11472",
+    "cat": "book",
+    "title": "Selected Stories by P.G. Wodehouse",
+    "stories": {
+        "story1": {
+            "title": "Jeeves Takes Charge",
+            "characters": [
+                "Bertie Wooster",
+                "Reginald Jeeves",
+                "Lady Florence Craye",
+                "Edwin Craye",
+                "Lord Worpleston",
+                "Uncle Willoughby"
+            ]
+        },
+        "story2": {
+            "title": "The Artistic Career of Corky",
+            "characters": [
+                "Bertie Wooster",
+                "Reginald Jeeves",
+                "Bruce 'Corky' Corcoran",
+                "Muriel Singer",
+                "Alexander Worple"
+            ]
+        },
+        "story3": {
+            "title": "Jeeves and the Unbidden Guest",
+            "characters": [
+                "Bertie Wooster",
+                "Reginald Jeeves",
+                "Wilmott 'Motty' Lord Pershore",
+                "Aunt Agatha Gregson",
+                "Lady Malvern",
+                "Rollo"
+            ]
+        },
+        "story4": {
+            "title": "The Aunt and the Sluggard",
+            "characters": [
+                "Bertie Wooster",
+                "Reginald Jeeves",
+                "Rockmetteller 'Rocky' Todd",
+                "Miss Isabel Rockmetteller",
+                "Jimmy Mundy"
+            ]
+        },
+        "story5": {
+            "title": "The Rummy Affair of Old Biffy",
+            "characters": [
+                "Bertie Wooster",
+                "Reginald Jeeves",
+                "Charles 'Biffy' Biffen",
+                "Honoria Glossop",
+                "Mabel",
+                "Sir Roderick Glossup"
+            ]
+        },
+        "story6": {
+            "title": "Clustering Round Young Bingo",
+            "characters": [
+                "Bertie Wooster",
+                "Reginald Jeeves",
+                "Richard P. 'Bingo' Little",
+                "Aunt Dahlia Travers",
+                "Anatole",
+                "Uncle Tom Travers",
+                "Rosie M. Banks",
+                "Uncle George"
+            ]
+        },
+        "story7": {
+            "title": "Bertie Changes His Mind",
+            "characters": [
+                "Bertie Wooster",
+                "Reginald Jeeves",
+                "Mrs. Scholfield",
+                "Miss Tomlinson",
+                "Peggy Mainwaring"
+            ]
+        },
+        "story8": {
+            "title": "Jeeves and the Impending Doom",
+            "characters": [
+                "Bertie Wooster",
+                "Reginald Jeeves",
+                "Aunt Agatha Gregson",
+                "Richard P. 'Bingo' Little",
+                "Thomas 'Thos' Gregson",
+                "the Right Honourable A. B. Filmer"
+            ]
+        },
+        "story9": {
+            "title": "Jeeves and the Yuletide Spirit",
+            "characters": [
+                "Bertie Wooster",
+                "Reginald Jeeves",
+                "Aunt Agatha Gregson",
+                "Lady Roberta 'Bobbie' Wickham",
+                "Hildebrand 'Tuppy' Glossup",
+                "Sir Roderick Glossup"
+            ]
+        },
+        "story10": {
+            "title": "Jeeves and the Song of Songs",
+            "characters": [
+                "Bertie Wooster",
+                "Reginald Jeeves",
+                "Hildebrand 'Tuppy' Glossup",
+                "Cora Bellinger",
+                "Aunt Dahlia Travers",
+                "Beefy Bingham",
+                "Angela Travers"
+            ]
+        },
+        "story11": {
+            "title": "Episode of the Dog McIntosh",
+            "characters": [
+                "Bertie Wooster",
+                "Reginald Jeeves",
+                "Aunt Agatha Gregson",
+                "Lady Roberta 'Bobbie' Wickham",
+                "McIntosh",
+                "Mr. Blumenfeld",
+                "Mr. Blumenfeld's son"
+            ]
+        },
+        "story12": {
+            "title": "Jeeves and the Kid Clementina",
+            "characters": [
+                "Bertie Wooster",
+                "Reginald Jeeves",
+                "title": "The Love That Purifies",
+                "characters": [
+                    "Bertie Wooster",
+                    "Reginald Jeeves",
+                    "Bonzo Travers",
+                    "Aunt Dahlia Travers",
+                    "Thomas 'Thos' Gregson",
+                    "Aunt Agatha Gregson"
+                ]
+            },
+            "story14": {
+                "title": "Jeeves and the Old School Chum",
+                "characters": [
+                    "Bertie Wooster",
+                    "Reginald Jeeves",
+                    "Richard P. 'Bingo' Little",
+                    "Rosie M. Banks",
+                    "Laura Pyke"
+                ]
+            },
+            "story15": {
+                "title": "The Ordeal of Young Tuppy",
+                "characters": [
+                    "Bertie Wooster",
+                    "Reginald Jeeves",
+                    "Hildebrand 'Tuppy' Glossup",
+                    "Angela Travers",
+                    "Aunt Dahlia Travers",
+                    "Miss Dalgleish"
+                ]
+            }
+        },
+        "author_name": {
+            "name1": "Pelham Grenville Wodehouse",
+            "name2": "P.G. Wodehouse"
+        },
+        "genre_s": {
+            "genre1": "British fiction",
+            "genre2": "humour"
+        },
+        "year": "1958",
+        "inStock": true,
+        "pages_i": 382
+    }
