@@ -11,7 +11,7 @@
   ],
   "properties": {
     "lcc": {
-      "type": "string"
+    "type": "string"
     },
     "cat": {
       "type": "string"
@@ -27,7 +27,7 @@
     },
     "stories": {
       "type": "array",
-      "description": ["Optional list of stories in the book",
+      "description": "Optional list of stories in the book",
         "items": {
         "type": "object",
           "required": ["title"],
@@ -47,6 +47,5 @@
       "type": "string"
     }
   }
-}
 }
     
