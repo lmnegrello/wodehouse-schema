@@ -24,6 +24,29 @@
     },
     "publicationYear": {
       "type": "number"
+    },
+    "stories": {
+      "type": "array",
+      "description": ["Optional list of stories in the book",
+        "items": {
+        "type": "object",
+          "required": ["title"],
+          "properties": {
+            "title": "string"
+          },
+          "firstPublicationYear":{
+            "type": "number"
+          }
+        }
+  }
+},
+  "characters": {
+    "type": "array",
+    "description" : "Optional list of major characters in the book",
+    "items": {
+      "type": "string"
     }
   }
 }
+}
+    
