@@ -17,7 +17,7 @@ Current fields include:
 ## 🌐 Schema URL
 
 Once published via GitHub Pages, this schema can be referenced at:
-https://lmnegrello.github.io/wodehouse-schema/wodehouse-book.schema.json
+https://lmnegrello.github.io/wodehouse-schema/book-schema.json
 
 ## 🧾 License
 
